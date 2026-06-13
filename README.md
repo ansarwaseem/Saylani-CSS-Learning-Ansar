@@ -49,7 +49,7 @@ This collection documents my progress through the **Saylani Mass IT Training Pro
 
 ## 🎓 Course Progress
 
-### ✅ HTML Section (Complete)
+### ✅ [HTML Section](https://github.com/ansarwaseem/Saylani-HTML-learning-Ansar.git) (Complete)
 - Assignment 01 - 08: Core HTML Concepts & Projects
 
 ### 🔄 CSS Section (In Progress)
